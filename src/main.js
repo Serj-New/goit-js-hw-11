@@ -42,7 +42,7 @@ function onSearchImg(evt) {
         messageColor: 'white',
         messageSize: '16px',
         backgroundColor: '#ef4040',
-        iconUrl: '/img/error.svg',
+        iconUrl: '../img/error.svg',
         iconColor: 'white',
         position: 'topRight',
         });
