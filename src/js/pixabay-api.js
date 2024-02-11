@@ -26,7 +26,7 @@ export class ImagesAPI {
           messageColor: 'white',
           messageSize: '16px',
           backgroundColor: '#ef4040',
-          iconUrl: './img/error.svg',
+          iconUrl: '/img/error.svg',
           iconColor: 'white',
           position: 'topRight',
           maxWidth: '432px',
